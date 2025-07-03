@@ -3,7 +3,7 @@ Dashboard and Data Visualiziation for Road Accident Data
 
 Raw Data:
 
-![Raw Data](https://github.com/A30Z/Road-Accident-Dashboard/blob/main/data.png)](https://github.com/A30Z/Road-Accident-Dashboard/blob/main/data.png)
+![Raw Data](https://github.com/A30Z/Road-Accident-Dashboard/blob/main/data.png)
 
 Cleaned Data:
 
