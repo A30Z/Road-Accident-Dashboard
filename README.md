@@ -1,5 +1,5 @@
 # Road-Accident-Dashboard
-Dashboard and Data Visualiziation for Road Accident Data
+Dashboard and Data Visualization for Road Accident Data
 
 Raw Data:
 
